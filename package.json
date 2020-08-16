@@ -21,7 +21,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "mini_player"
+            "name": "youtube_mini_player"
           }
         },
         {
